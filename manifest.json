@@ -18,17 +18,17 @@
   "browser_action": {
     "default_popup": "popup.html",
     "default_icon": {
-      "16": "img16.png",
-      "32": "img32.png",
-      "48": "img48.png",
-      "128": "img128.png"
+      "16": "images/img16.png",
+      "32": "images/img32.png",
+      "48": "images/img48.png",
+      "128": "images/img128.png"
     }
   },
   "icons": {
-    "16": "img16.png",
-    "32": "img32.png",
-    "48": "img48.png",
-    "128": "img128.png"
+    "16": "images/img16.png",
+    "32": "images/img32.png",
+    "48": "images/img48.png",
+    "128": "images/img128.png"
   },
-  "web_accessible_resources": ["chigurh.jpg"]
+  "web_accessible_resources": ["images/chigurh.jpg"]
 }
