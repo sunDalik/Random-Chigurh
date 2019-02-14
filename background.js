@@ -1,4 +1,4 @@
-var chance = 1; //0.1%
+var chance = 0.001; //0.1%
 var deployChigurhs = `var chance = 0;
                 chrome.extension.onMessage.addListener(request => {
                     chance = request.data;
